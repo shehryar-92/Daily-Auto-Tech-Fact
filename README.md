@@ -12,7 +12,7 @@ never goes uncommitted.
 ## Today's fact
 
 <!-- FACT:START -->
-> 💡 **Tech fact** — *(this section updates automatically each morning)*
+> 💡 **Tech fact (2026-08-17)** — GitHub's contribution graph, the one developers try to keep green, was introduced in 2013.
 <!-- FACT:END -->
 
 ---
