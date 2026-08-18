@@ -12,7 +12,7 @@ never goes uncommitted.
 ## Today's fact
 
 <!-- FACT:START -->
-> 💡 **Tech fact (2026-08-17)** — GitHub's contribution graph, the one developers try to keep green, was introduced in 2013.
+> 💡 **Tech fact (2026-08-18)** — The first version of the Linux kernel was about 10,000 lines of code. Today it's over 30 million.
 <!-- FACT:END -->
 
 ---
