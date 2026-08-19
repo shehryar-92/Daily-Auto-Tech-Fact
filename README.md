@@ -12,7 +12,7 @@ never goes uncommitted.
 ## Today's fact
 
 <!-- FACT:START -->
-> 💡 **Tech fact (2026-08-18)** — The first version of the Linux kernel was about 10,000 lines of code. Today it's over 30 million.
+> 💡 **Tech fact (2026-08-19)** — The first item ever sold on eBay, in 1995, was a broken laser pointer.
 <!-- FACT:END -->
 
 ---
