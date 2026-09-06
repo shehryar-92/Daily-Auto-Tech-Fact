@@ -118,5 +118,11 @@
     "text": "Kubernetes' name comes from the Greek word for 'helmsman' or 'pilot,' referencing container orchestration.",
     "author": "",
     "source": "backup"
+  },
+  {
+    "date": "2026-09-06",
+    "text": "YAML, widely used in config files today, stands for 'YAML Ain't Markup Language,' a recursive acronym joke.",
+    "author": "",
+    "source": "backup"
   }
 ]
