@@ -154,5 +154,11 @@
     "text": "The first domain name ever registered was symbolics.com, back in 1985.",
     "author": "",
     "source": "backup"
+  },
+  {
+    "date": "2026-09-12",
+    "text": "Docker was originally an internal project at a PaaS company called dotCloud before being spun out in 2013.",
+    "author": "",
+    "source": "backup"
   }
 ]
