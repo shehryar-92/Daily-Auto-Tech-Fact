@@ -202,5 +202,11 @@
     "text": "The first computer mouse, invented by Douglas Engelbart, was made of wood.",
     "author": "",
     "source": "backup"
+  },
+  {
+    "date": "2026-09-20",
+    "text": "GPT-style transformer architectures, introduced in 2017, replaced older recurrent neural networks as the dominant approach in NLP.",
+    "author": "",
+    "source": "backup"
   }
 ]
