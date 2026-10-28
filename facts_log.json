@@ -430,5 +430,11 @@
     "text": "The average webpage today is significantly larger in file size than early versions of Doom, a common talking point about web bloat.",
     "author": "",
     "source": "backup"
+  },
+  {
+    "date": "2026-10-28",
+    "text": "npm, the default Node.js package manager, hosts well over 2 million packages.",
+    "author": "",
+    "source": "backup"
   }
 ]
