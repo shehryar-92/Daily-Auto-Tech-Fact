@@ -436,5 +436,11 @@
     "text": "npm, the default Node.js package manager, hosts well over 2 million packages.",
     "author": "",
     "source": "backup"
+  },
+  {
+    "date": "2026-10-29",
+    "text": "The programming language Go was designed at Google partly to make large-scale software builds faster.",
+    "author": "",
+    "source": "backup"
   }
 ]
