@@ -556,5 +556,11 @@
     "text": "The Apache web server gets its name from being 'a patchy' server, built from a series of patches to existing code.",
     "author": "",
     "source": "backup"
+  },
+  {
+    "date": "2026-11-18",
+    "text": "TypeScript was developed by Microsoft to add optional static typing on top of JavaScript.",
+    "author": "",
+    "source": "backup"
   }
 ]
